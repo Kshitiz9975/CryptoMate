@@ -2,12 +2,6 @@
 
 A responsive React web application that allows users to track cryptocurrency prices and visualize their trends with interactive charts.
 
-## 🌐 Live Preview
-
-(You can deploy the app using platforms like [Netlify](https://www.netlify.com/) or [Vercel](https://vercel.com/) and place the link here.)
-
----
-
 ## 🚀 Features
 
 - 📈 View real-time cryptocurrency prices
